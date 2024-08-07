@@ -11,7 +11,7 @@ Welcome to my profile! I am a student, musician, part-time programmer, looking f
 ☁️ In addition, I specialize in automations using Apps Script with Google Sheets, which allows me to optimize and simplify processes to improve efficiency and productivity.
 
 ## Languages and Tools
-
+<img align="left" alt="JAVA" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
