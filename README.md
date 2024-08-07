@@ -23,7 +23,9 @@ Welcome to my profile! I am a student, musician, part-time programmer, looking f
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/6ceade2f-b0c9-4df8-be58-d28d8291eaf9" />
-<br /><br /><br />
+<br />
+<br />
+
 ##
 <div id="header" align="center">
   <img src="https://github.com/user-attachments/assets/325a3640-0864-4ff6-86fc-9cc636c6a74a" wigth="200" />
