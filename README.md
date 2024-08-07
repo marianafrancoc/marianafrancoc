@@ -22,7 +22,7 @@ Welcome to my profile! I am a student, musician, part-time programmer, looking f
 <img align="left" alt="SQLserver" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/6ceade2f-b0c9-4df8-be58-d28d8291eaf9" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/58ab17b4-d829-4b9e-b81a-e2587551c6e0" />
 <br />
 <br />
 
