@@ -1,9 +1,9 @@
-<!--
+
 ## Hi I'm Mariana 👋
 
 **`Mariana Franco (Developer/Musician)`**
 
-[![Linkedin Badge](https://img.shields.io/badge/-mfranco-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mfranco/)]()
+[![Linkedin Badge](https://img.shields.io/badge/-mfranco-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mfranco/)](https://www.linkedin.com/in/mariana-franco-b097a6320/)
 [![Instagram Badge](https://img.shields.io/badge/-marianaf017-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)]()
 [![Gmail Badge](https://img.shields.io/badge/-francomariana-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)]()
 
