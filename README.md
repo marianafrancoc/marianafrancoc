@@ -1,4 +1,3 @@
-<!--
 ## Hi I'm Mariana 👋
 
 **`Mariana Franco (Developer/Musician)`**
